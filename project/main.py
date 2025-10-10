@@ -1,6 +1,3 @@
-from package.calculator import sum
+from package.studentInfo import show
 
-
-sum(5,10)
-sum(50,100,40)
-sum()
+show()
