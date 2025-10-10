@@ -2,8 +2,8 @@
 def show():
     print("Student Information Module"
         "\nThis module handles student data and operations."
-        "\nAuthor: Muhammad Tayyab"
+        "\nAuthor: Muhammad ali"
         "\nDate: 2024-06-15"
-        "\nContact:+923054546588"
-        "\nEmail:tayyabeducation@gmail.com"
+        "\nContact:+9200000000"
+        "\nEmail:ali@gmail.com"
         )

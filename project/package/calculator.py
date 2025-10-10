@@ -1,6 +1,6 @@
 #functions with default parameters and no return value
 def sum(firstNumber=0,secondNumber=0,thirdNumber=0):
-    print("Sum is",firstNumber+secondNumber+thirdNumber)
+    return firstNumber+secondNumber+thirdNumber
 
 def subtract(firstNumber=0,secondNumber=0):
     print("Subtraction is",firstNumber-secondNumber)
